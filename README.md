@@ -1,4 +1,4 @@
-# Accessing EDGAR Data (Electronic Data Gathering, Analysis, and Retrieval system) using Python
+# Accessing SEC EDGAR Data (Electronic Data Gathering, Analysis, and Retrieval system) using Python
 
 https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm
 
